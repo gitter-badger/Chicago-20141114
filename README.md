@@ -1,5 +1,6 @@
 Chicago 2014
 ==============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ContentMine/Chicago-20141114?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Workshop resources for the workshop in Chicago (US) on 14th November 2014
 
